@@ -12,7 +12,7 @@ L = Label(GUI,text='Paramet Tom')
 L.pack()
 
 
-L= Label(GUI,text='s')
+L= Label(GUI,text='Amonrat Praew')
 L.pack()
 
 GUI.mainloop()
