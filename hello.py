@@ -1,2 +1,7 @@
 print ('Hello word')
-print ('Sawasdee Loong')
+
+
+name = 'Uncle'
+lastname = 'Engineer'
+fullname = name +' '+lastname
+print(fullname)
